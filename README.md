@@ -3,4 +3,6 @@ Automatically adds all your music inside the "musics" folder inside your playlis
 
 See example bellow on where to add the script
 
-![Image](https://raw.githubusercontent.com/seethroughthesnow/ULTRAKILL-Auto-Add_Music/main/image.png?token=GHSAT0AAAAAACL3XUP6OTCTFZOGZDWI77RAZMDNBIQ)
+![Screenshot](image.png)
+
+Dont forget to change the varible `folder_path` inside the script to match your musics folder
