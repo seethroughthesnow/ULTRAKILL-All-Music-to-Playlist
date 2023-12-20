@@ -1,5 +1,5 @@
 # ULTRAKILL-Auto-Add_Music
-Automatically adds all your music inside the "musics" folder inside your playlist so you dont have to manually add them
+Automatically adds all your cybergrind music inside the "musics" folder into your playlist so you dont have to manually add them
 
 See example bellow on where to add the script
 
